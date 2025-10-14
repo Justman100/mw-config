@@ -1040,6 +1040,7 @@ $wgConf->settings += [
 			"$IP/extensions/MediaModeration/schema/mysql/tables-generated.sql",
 			"$IP/extensions/OAuth/schema/mysql/tables-generated.sql",
 			"$IP/extensions/RottenLinks/sql/rottenlinks.sql",
+			"$IP/extensions/TimedMediaHandler/sql/tables-generated.sql",
 			"$IP/extensions/UrlShortener/schemas/mysql/tables-generated.sql",
 		],
 	],
